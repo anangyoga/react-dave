@@ -51,3 +51,7 @@ footer {
   display: grid;
   place-content: center;
 }
+
+button {
+  cursor: pointer;
+}
