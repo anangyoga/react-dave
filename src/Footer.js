@@ -1,8 +1,13 @@
 import React from "react";
 
-function Footer() {
-  const today = new Date();
-  return <footer>copyright &copy; {today.getFullYear()}</footer>;
-}
+const Footer = ({ length }) => {
+  return (
+    <footer>
+      <p>
+        {length} Total {length === 1 ? "item" : "items"}
+      </p>
+    </footer>
+  );
+};
 
 export default Footer;
