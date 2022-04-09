@@ -3,15 +3,15 @@
     {
       "id": 1,
       "checked": false,
-      "item": "Milk"
+      "item": "Syrup"
     },
     {
-      "id": 1,
+      "id": 2,
       "checked": false,
       "item": "Chocolate"
     },
     {
-      "id": 1,
+      "id": 3,
       "checked": false,
       "item": "Almond"
     }
